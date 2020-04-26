@@ -1,6 +1,6 @@
 # Windows Version <img src="https://i.imgur.com/vP8OTUc.png" align="right">
   Versão para tocar rádio pelo cmd do Windows. </br>
-  O script batch utilizado é um improviso, dessa forma ele não é o mais optimizado possível.
+  O script batch utilizado é um improviso, dessa forma ele não é o mais optimizado possível, nem o mais visualmente agradável.
 
 ## Dependência
 - mpg123
