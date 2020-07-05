@@ -1,5 +1,6 @@
 # Linux Version
 Essa versão é mais elaborada, pois apresenta já uma interface (simples) responsiva no terminal.
+
 <img src="https://i.imgur.com/X0UYzyK.png">
 
 ## Dependências
@@ -42,6 +43,7 @@ No menu inicial, basta inserir o número referente a rádio que você quer ouvir
 O programa identifica quando a resolução do terminal muda e redimensiona a interface para ficar correto.
 
 Caso o terminal não tenha o tamanho mínimo, será apresentado qual o tamanho necessário para rodar o programa. Esse tamanho varia dependendo da quantidade de rádios existentes no arquivo `radios.txt`
+
 <img src="https://i.imgur.com/8p9Nhu1.png">
 
 Não abuse ficar redimensionando muitas vezes e rapidamente, o programa pode quebrar assim.
