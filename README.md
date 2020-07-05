@@ -1,5 +1,6 @@
 # Radio Terminal
-Ouvir músicas de rádios online com interface feita em puro bash.
+Ouvir músicas de rádios online com interface feita em puro bash no Linux.
+Ou então ouvir em versão básica no Windows.
 
 ## Linux Version
 A versão Linux é feita em bash e a ideia é apresentar uma interface que seja minimamente agradável ao usuário, feita diretamente no terminal, que seja responsiva, e, que apresente também as últimas músicas que foram tocadas.
